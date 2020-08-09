@@ -1,5 +1,6 @@
 # Euclidean Algorithm Python Implementation.
 
+
 def gcd(r0, r1):
     if r0 < r1:
         inter = r0
@@ -15,6 +16,7 @@ def gcd(r0, r1):
     print(f"GCD of these 2 integers is: {r1}.")
 
 
+# Main
 print("Implementation of Euclidean Algorithm in Python.")
 while True:
     int1 = int(input("Enter integer 1:: "))
