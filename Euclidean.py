@@ -1,6 +1,5 @@
 # Euclidean Algorithm Python Implementation.
 
-
 def gcd(r0, r1):
     if r0 < r1:
         inter = r0
